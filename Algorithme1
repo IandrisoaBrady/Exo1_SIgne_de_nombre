@@ -1,0 +1,12 @@
+Algorithme: signe d'un nombre
+Variables:
+	n:réel;
+Début
+	AFFICHER("Entrez un nombre n");
+	LIRE(n);
+	Si(n>=0)alors
+		AFFICHER("Le nombre",n,"est négatif");
+		Sinon
+		AFFICHER("Le nombre",n,"est négatif");
+	FinSi
+Fin
